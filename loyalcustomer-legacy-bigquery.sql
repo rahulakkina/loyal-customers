@@ -59,4 +59,4 @@ GROUP BY
   c.productSKU
 ORDER BY
   c.fullVisitorId,
-  c.productSKU
+  c.productSKU;
